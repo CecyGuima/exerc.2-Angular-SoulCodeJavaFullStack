@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+* {
+    font-family: 'Lucida Sans', sans-serif;
+    color: rgb(63, 7, 77);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 100vh;
+    background: radial-gradient(rgb(248, 212, 248), rgb(128, 19, 113));
+}
